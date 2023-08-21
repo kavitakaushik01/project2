@@ -1,2 +1,2 @@
 first definition
-  name : kavita kaushik
+  name : kavita kaushik.
